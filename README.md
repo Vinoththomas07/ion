@@ -54,7 +54,9 @@ node index.js --ignore client
 cd client && npm start
 ```
 use node version 15, nvm use 15
+
 client host: ``http://localhost:3000/``
+
 server host: ``http://localhost:3001/``
 
 ## Usage
